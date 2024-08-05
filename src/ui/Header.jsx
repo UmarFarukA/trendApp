@@ -3,7 +3,7 @@ import { useLogout } from "../features/Auth/useLogout";
 import {
   HomeIcon,
   UsersIcon,
-  VideoCameraIcon,
+  ChatBubbleLeftIcon,
   BellAlertIcon,
 } from "@heroicons/react/16/solid";
 import { useNavigate } from "react-router";
