@@ -1,0 +1,26 @@
+/* header: {
+      backgroundColor: '#007BFF', // Blue
+      color: '#FFFFFF', // White
+    },
+    button: {
+      backgroundColor: '#FFA500', // Orange
+      color: '#FFFFFF', // White
+    },
+    background: {
+      backgroundColor: '#FFFFFF', // White
+    },
+    text: {
+      color: '#000000', // Black for text on white background
+    } */
+
+body {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.register,
+.login {
+  color: rgb(19, 187, 19);
+  /* text-decoration: none; */
+}
